@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Najmul Shaon</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
+
+![A passionate MERN stack developer from Bangladesh](https://github.com/Najmul-Shaon/Najmul-Shaon/blob/main/Black%20Yellow%20Futuristic%20Welcome%20To%20Video%20YouTube%20Intro.jpg)
+
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://najmul-shaon.github.io/portfolio/](https://najmul-shaon.github.io/portfolio/)
