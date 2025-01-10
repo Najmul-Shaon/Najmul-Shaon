@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Najmul Shaon
 #### A passionate MERN stack developer from Bangladesh
-![A passionate MERN stack developer from Bangladesh]([https://i.ibb.co.com/2Z8SjgK/Black-Yellow-Futuristic-Welcome-To-Video-You-Tube-Intro.jpg](https://github.com/Najmul-Shaon/Najmul-Shaon/blob/main/Black%20Yellow%20Futuristic%20Welcome%20To%20Video%20YouTube%20Intro.jpg))
+![A passionate MERN stack developer from Bangladesh](https://i.ibb.co.com/2Z8SjgK/Black-Yellow-Futuristic-Welcome-To-Video-You-Tube-Intro.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
