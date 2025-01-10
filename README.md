@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/najmul-hasan-75a096205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/najmul-hasan-75a096205" height="30" width="40" /></a>
 </p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Shaon)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
