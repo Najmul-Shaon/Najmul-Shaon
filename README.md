@@ -74,21 +74,25 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&show_icons=true&locale=en" alt="najmul-shaon" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmul-shaon&" alt="najmul-shaon" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&layout=compact" alt="najmul-shaon" />
-</p>
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&show_icons=true&locale=en" alt="Najmul Shaon Stats" width="400" />
+    
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&layout=compact" alt="Most Used Languages" width="400" />
+    
+    <!-- Contributions and Streak -->
+    <div style="grid-column: span 2;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=najmul-shaon" alt="GitHub Streak Stats" width="820" />
+    </div>
+  </div>
+</div>
 
 ---
 
 ### 📈 Achievements
 - 🎯 Consistently building projects using the MERN stack.
-- 🌟 Contributing to open-source projects to enhance coding skills.
 
 ---
 
