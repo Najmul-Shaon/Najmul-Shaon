@@ -75,19 +75,14 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&show_icons=true&locale=en" alt="Najmul Shaon Stats" width="400" />
-    
-    <!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&layout=compact" alt="Most Used Languages" width="400" />
-    
-    <!-- Contributions and Streak -->
-    <div style="grid-column: span 2;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=najmul-shaon" alt="GitHub Streak Stats" width="820" />
-    </div>
-  </div>
+  <!-- Stats and Most Used Languages in One Line -->
+  ![Najmul Shaon Stats](https://github-readme-stats.vercel.app/api?username=najmul-shaon&show_icons=true&locale=en)  
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&layout=compact)
+
+  <!-- Contributions and Streak on One Line (Span 2 Columns) -->
+  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=najmul-shaon)
 </div>
+
 
 ---
 
