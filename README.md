@@ -36,7 +36,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
   </a>
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://daisyui.com/images/logo.svg" alt="DaisyUI" width="40" height="40"/> 
+    <img src="https://github.com/Najmul-Shaon/Najmul-Shaon/blob/main/daisyui-logotype.svg" alt="DaisyUI" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
