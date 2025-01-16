@@ -78,6 +78,7 @@
 <div align="center">
     <!-- Contributions and Streak in one row -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Shaon" alt="GitHub Streak Stats" width="800"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Najmul-Shaon)](https://git.io/streak-stats)
   
   <!-- GitHub Stats and Most Used Languages in one row -->
   <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&show_icons=true&locale=en" alt="Najmul Shaon Stats" height="180"/>
