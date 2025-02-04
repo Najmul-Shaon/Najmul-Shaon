@@ -81,7 +81,10 @@
   
   
   <!-- GitHub Stats and Most Used Languages in one row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&show_icons=true&locale=en" alt="Najmul Shaon Stats" height="180"/>
+  <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Najmul-Shaon&theme=dracula" alt="GitHub Streak">
+</a>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&layout=compact" alt="Most Used Languages" height="180"/>
 
 
