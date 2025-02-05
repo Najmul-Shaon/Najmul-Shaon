@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 Currently Improving: MERN stack skills.<br>- 📚 I'm currently learning TypeScript and Next.js<br>🎯 Goals: Make web applications that make life easy.<br>🎲 Fun fact: Loves the view from the hills—just not the "falling off" part!</p>
+<p align="left">🔭 Currently: Improving MERN stack skills.<br>📚 I'm currently learning TypeScript and Next.js<br>🎯 Goals: Make web applications that make life easy.<br>🎲 Fun fact: Loves the view from the hills—just not the "falling off" part!</p>
 
 ###
 
