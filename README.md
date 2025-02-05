@@ -25,7 +25,13 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h2 align="center">👁️👁️  Current Overview</h2>
+
+###
+
+<p align="left">- 🔭 Currently Improving: MERN stack skills.<br>- 📚 I'm currently learning TypeScript and Next.js<br>🎯 Goals: Make web applications that make life easy.<br>🎲 Fun fact: Loves the view from the hills—just not the "falling off" part!</p>
+
+###
 
 ###
 
