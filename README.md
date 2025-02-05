@@ -1,6 +1,7 @@
 ![Header](./github-header-image-v2.png)
 
-
+<h2 align="center">Current Stats</h2>h2>
+###
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=Najmul-Shaon&theme=gruvbox&hide_border=true" alt="GitHub Streak">
 </p>
