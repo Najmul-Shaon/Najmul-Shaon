@@ -1,4 +1,4 @@
-![Header](./github-header-image v2.png)<h2 align="center">Crafting with</h2>
+![Header](./github-header-image-v2.png)<h2 align="center">Crafting with</h2>
 
 ###
 
