@@ -18,7 +18,7 @@
 ###
 
 
-<h2 align="left">📞  Reach me out</h2>
+<h2 align="center">📞  Reach me out</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">👁️👁️  Current Overview</h2>
+<h2 align="center">👁️👁️  Current Overview</h2>
 
 ###
 
