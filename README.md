@@ -12,6 +12,12 @@
 
 ![najmul-shaon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 45%;"/>
+</div>
+
+
 
 <h2 align="center">👩‍💻  About Me</h2>
 
