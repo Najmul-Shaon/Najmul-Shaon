@@ -1,5 +1,5 @@
 ![Header](./github-header-image-v2.png)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Najmul-Shaon)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Najmul-Shaon&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 <h3 align="center">👩‍💻  About Me</h3>
 
 ###
