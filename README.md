@@ -1,4 +1,3 @@
-![Welcome Banner](https://github.com/Najmul-Shaon/Najmul-Shaon/blob/main/Black%20Yellow%20Futuristic%20Welcome%20To%20Video%20YouTube%20Intro.jpg)
 ![Header](./github-header-image.png)
 
 <h2 align="center">Empowering Web Experiences | MERN Stack Developer from Bangladesh</h2>
