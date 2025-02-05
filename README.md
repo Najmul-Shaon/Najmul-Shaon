@@ -1,4 +1,5 @@
 ![Header](./github-header-image-v2.png)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Najmul-Shaon&theme=blueberry)](https://git.io/streak-stats)
 ![najmul-shaon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 ![najmul-shaon's Stats](https://github-readme-stats.vercel.app/api?username=najmul-shaon&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 <h3 align="center">👩‍💻  About Me</h3>
