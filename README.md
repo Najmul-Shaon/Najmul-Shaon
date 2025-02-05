@@ -8,6 +8,10 @@
   <img src="https://nirzak-streak-stats.vercel.app?user=Najmul-Shaon&theme=gruvbox&hide_border=true" alt="GitHub Streak">
 </p>
 
+![najmul-shaon's Stats](https://github-readme-stats.vercel.app/api?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![najmul-shaon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <h2 align="center">👩‍💻  About Me</h2>
 
