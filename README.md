@@ -10,9 +10,10 @@
 
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; height: 300px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 45%; height: 300px; object-fit: cover;"/>
 </div>
+
 
 
 
