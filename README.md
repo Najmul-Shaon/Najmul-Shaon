@@ -42,7 +42,7 @@
 ###
 
 ###
-<h2 align="left">🖊️  Crafting with</h2>
+<h2 align="center">🖊️  Crafting with</h2>
 
 ###
 
