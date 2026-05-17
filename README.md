@@ -10,13 +10,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najmul-shaon&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-shaon&theme=gruvbox&layout=compact&hide_border=true" />
-</p>
 
 
 <!-- <div style="display: flex; gap: 20px;">
