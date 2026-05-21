@@ -10,7 +10,7 @@
    <img src="https://streak-stats.demolab.com?user=Najmul-Shaon&theme=gruvbox&hide_border=true" alt="GitHub Streak">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 
 
 
