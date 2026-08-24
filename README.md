@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Najmul-Shaon&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=najmulShaon&theme=highcontrast&timezone=GMT%2B6&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 
